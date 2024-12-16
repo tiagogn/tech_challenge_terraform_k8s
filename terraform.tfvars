@@ -1,3 +1,3 @@
 region = "us-east-1"
-vpc_id = "vpc-006add10f62e05aaa"
-public_subnets = ["subnet-07145aea11c73224a", "subnet-0b1938fefae747ca2"]
+vpc_id = "vpc-0af36a27c72900d51"
+public_subnets = ["subnet-021c1ca47e4c8912d", "subnet-04faa0af284cc2a90"]
