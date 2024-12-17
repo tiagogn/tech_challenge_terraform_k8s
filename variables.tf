@@ -1,13 +1,3 @@
-variable "aws_access_key" {
-  description = "Access key for AWS"
-  type        = string
-}
-
-variable "aws_secret_key" {
-  description = "Secret key for AWS"
-  type        = string
-}
-
 variable "region" {
   description = "AWS Region where resources will be created"
   type        = string
